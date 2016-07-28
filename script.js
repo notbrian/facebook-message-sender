@@ -4,8 +4,12 @@ var multiple = ["notbriann", "omarqureshi786"];
 // Put your targets messenger names in here. Format: ["notbriann", "omarqureshi786", "jevinsidhu3", "ani.srikanth"]
 
 
-login({email: "Email Here", password: "Password Here"}, function callback (err, api) {
+login({
+  email: "Email Here",
+  password: "Password Here"
   // Email and Pass Here^
+  
+}, function callback (err, api) {
     if(err) return console.error(err);
 
   
