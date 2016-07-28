@@ -22,7 +22,8 @@ E.g My messenger name is notbriann, my profile URL is https://www.facebook.com/n
 
 The messenger name is always first and before the ? in the url 
 
-https://www.facebook.com/omarqureshi786?fref=hovercard 
+https://www.facebook.com/omarqureshi786?fref=hovercard
+
 The messenger name for this is omarqureshi786
 
 Step 2. Add it to the `multiple` variable found at the top of the javascript file
