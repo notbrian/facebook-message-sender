@@ -13,6 +13,8 @@ login({
   email: "Email Here",
   password: "Password Here"
 ```
+
+Step 4. Save your file
 ##Usage
 Step 1. Find the messenger name of who you want to message by going to their profile.
 
