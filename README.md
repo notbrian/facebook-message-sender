@@ -43,3 +43,8 @@ To customize messages sent to people of different genders, edit the `body` field
 ```js
 body: "Yooo" + " " + firstName + "!" + " " + "Reach Campfire '16: https://www.facebook.com/events/115350342236759/"
 ```
+
+
+##Special Thanks
+
+Schmavery for his Facebook-Chat-Api: https://github.com/Schmavery/facebook-chat-api
