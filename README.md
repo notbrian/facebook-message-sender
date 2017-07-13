@@ -15,7 +15,7 @@ login({
 ```
 
 Step 4. Save your file
-##Usage
+## Usage
 Step 1. Find the messenger name of who you want to message by going to their profile.
 
 E.g My messenger name is notbriann, my profile URL is https://www.facebook.com/notbriann
@@ -37,7 +37,7 @@ Step 4. Click run at the top of your workspace and hope no errors show up!
 
 Note: The first time you run it, it will not work. Simply go to www.facebook.com to approve the login request.
 
-##Customizing Messages
+## Customizing Messages
 
 To customize messages sent to people of different genders, edit the `body` fields in the code
 ```js
@@ -45,6 +45,6 @@ body: "Yooo" + " " + firstName + "!" + " " + "Reach Campfire '16: https://www.fa
 ```
 
 
-##Special Thanks
+## Special Thanks
 
 Schmavery for his Facebook-Chat-Api: https://github.com/Schmavery/facebook-chat-api
